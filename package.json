@@ -1,0 +1,22 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Fibonach-web-paslauga",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeivis/Fibonachi-web-paslauga.git"
+  },
+  "author": "Deividas Maciejauskas PRIF14/2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeivis/Fibonachi-web-paslauga/issues"
+  },
+  "homepage": "https://github.com/mdeivis/Fibonachi-web-paslauga#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
